@@ -18,7 +18,7 @@ Examples:
 const rules = `Rules for Rock Paper Scissors:
 - Scissors CUTS Paper
 - Paper SMOTHERS Rock 
-- Rock CRUSHES Scissors`;
+- Rock CRUSHES  Scissors`;
 
 if (args.h || args.help) {
 	console.log(help);
